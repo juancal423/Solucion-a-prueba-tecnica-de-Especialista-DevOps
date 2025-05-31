@@ -123,3 +123,8 @@ Deberías ver:
 - El secret \`app-secret\` se crea con un valor mock para cumplir el challenge.
 - Manifiestos separados por tipo para mejor organización.
 - El puerto expuesto es el 3000.
+- Si desea añadir la observabilidad puedes ejecutar directamente:
+
+```shell
+chmod +x observabilidad.sh && ./observabilidad.sh
+```
